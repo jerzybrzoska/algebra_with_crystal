@@ -1,0 +1,13 @@
+name: factor_quadratics
+version: 0.1.0
+
+authors:
+  - your-name-here <your-email-here>
+
+targets:
+  factor_quadratics:
+    main: src/factor_quadratics.cr
+
+crystal: 1.1.1
+
+license: MIT
